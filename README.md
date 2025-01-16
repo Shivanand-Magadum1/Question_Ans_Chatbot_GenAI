@@ -1,7 +1,7 @@
 # Gemini Question-Answer App Using LangChain-GenAI
 
 ## Environment setup:
-py -3.10 -m venv myvenv
+py -3.10 -m venv venv
 
 myvenv\Scripts\activate
 
